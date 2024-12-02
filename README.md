@@ -12,6 +12,8 @@ This repository contains the following folders and projects:
   - PoC: A project aimed at creating a website for volleyball fans.
 
 
-- Text Mining: This project analyzes the National Petition Board to identify the primary desires of the public. It is currently in progress, and you can refer to the proposal PDF to see the planned content.
+- Text Mining:
+  - This project analyzes the National Petition Board to identify the primary desires of the public. It is currently in progress, and you can refer to the proposal PDF to see the planned content.
+  - Also, Each Activity files contains team assignment project 
 
 Feel free to explore the projects and reach out for any inquiries!
