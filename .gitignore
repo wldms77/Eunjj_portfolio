@@ -1,6 +1,5 @@
 #MAC OS
-.DS_Stor
-e
+.DS_Store
 # IDE
 .vscode/
 .idea/
