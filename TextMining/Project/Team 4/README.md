@@ -63,44 +63,44 @@ Data Content : 2,953 observations / 5 variables: "page_id", "title", "text", "la
 
 ### 보건복지부
 
-![1.png]("TextMining/Project/Team 4/Keyword Department_image/1.png")
+![1.png](TextMining/Project/Team%204/Keyword%20Department_image/1.png)
 
 
 ### 범무부
 
-![2.jpeg]("TextMining/Project/Team 4/Keyword Department_image/2-2.jpeg")
+![2.jpeg](TextMining/Project/Team%204/Keyword%20Department_image/2-2.jpeg)
 
 ### 경찰청
 
-![3.png]("TextMining/Project/Team 4/Keyword Department_image/3.png")
+![3.png](TextMining/Project/Team%204/Keyword%20Department_image/3.png)
 
 ### 고용노동부
 
-![4.png]("TextMining/Project/Team 4/Keyword Department_image/4.png")
+![4.png](TextMining/Project/Team%204/Keyword%20Department_image/4.png)
 
 ### 행정안전부
 
-![5.png]("TextMining/Project/Team 4/Keyword Department_image/5.png")
+![5.png](TextMining/Project/Team%204/Keyword%20Department_image/5.png)
 
 ### 행정안전부
 
-![6.png]("TextMining/Project/Team 4/Keyword Department_image/6.png")
+![6.png](TextMining/Project/Team%204/Keyword%20Department_image/6.png)
 
 ### 교육부
 
-![7.png]("TextMining/Project/Team 4/Keyword Department_image/7.png")
+![7.png](TextMining/Project/Team%204/Keyword%20Department_image/7.png)
 
 ### 인천광역시
 
-![8.png]("TextMining/Project/Team 4/Keyword Department_image/8.png")
+![8.png](TextMining/Project/Team%204/Keyword%20Department_image/8.png)
 
 ### 서울특별시
 
-![9.png]("TextMining/Project/Team 4/Keyword Department_image/9.png")
+![9.png](TextMining/Project/Team%204/Keyword%20Department_image/9.png)
 
 ### 환경부
 
-![10.png]("TextMining/Project/Team 4/Keyword Department_image/10.png")
+![10.png](TextMining/Project/Team%204/Keyword%20Department_image/10.png)
 
 we can check top keywords appears frequently for each department
 
@@ -112,7 +112,7 @@ we can check top keywords appears frequently for each department
 - For example, if "education" is the most frequent keyword, it is important to determine whether the public is advocating for specific types of education or opposing certain educational practices.
 - Thus, further contextual analysis is needed to clarify the meaning behind each keyword, allowing us to better understand the public's demands.
 
-![N-gram.png]("TextMining/Project/Team 4/Keyword Department_image/N-gram.png")
+![N-gram.png](TextMining/Project/Team%204/Keyword%20Department_image/N-gram.png)
 
 ---
 
@@ -122,10 +122,10 @@ we can check top keywords appears frequently for each department
 - The LDA technique was employed, and four methodologies were used to identify the optimal number of topics.
 - Finally, the analysis was performed with five topics.
     
-    ![LDA1.png]("TextMining/Project/Team 4/Keyword Department_image/LDA1.png")
+    ![LDA1.png](TextMining/Project/Team%204/Keyword%20Department_image/LDA1.png)
     
 
-![LDA2.png]("TextMining/Project/Team 4/Keyword Department_image/LDA2.png")
+![LDA2.png](TextMining/Project/Team%204/Keyword%20Department_image/LDA2.png)
 
 ---
 
