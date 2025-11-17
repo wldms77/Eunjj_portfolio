@@ -4,7 +4,7 @@ This repository contains the following folders and projects:
 
 - Algorithm: This folder contains projects related to algorithms, including code files, presentation materials, and the CSV files used.
 
-- Capstone:
+- Project Activities:
 
   - Basketball: This folder includes code files for an ongoing research project focused on analyzing and predicting basketball player play styles using machine learning. It specifically clusters KBL guard players.
   - Machine Learning: Contains projects utilizing classification and regression methodologies.
